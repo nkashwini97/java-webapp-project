@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: ashwini-container
-        image: 95ashwini/ashwini-webapp
+        image: 95ashwini/ashu-webapp
         ports:
         - containerPort: 8080
 ---

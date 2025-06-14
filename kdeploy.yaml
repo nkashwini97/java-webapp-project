@@ -5,7 +5,7 @@ metadata:
   labels:
     app: ashwini-deploy-lbl
 spec:
-  replicas: 3
+  replicas: 4
   selector:
     matchLabels:
       app: ashwini-app
